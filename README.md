@@ -7,6 +7,6 @@ Implementation of methods to detect and track an object(face in our example) -
 
 Initial face detection is done by Viola-Jones detection algorithm, using OpenCV Haar Front-Face detection filters.
 
-Pre-Requisities -
-OpenCV
-Python
+## pre-requisities
+1. OpenCV
+2. Python
